@@ -1,4 +1,4 @@
 # cornerup
-Cornerup HQ
+CornerUp HQ
 
 Welcome! 
